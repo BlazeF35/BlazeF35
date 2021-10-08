@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hello my name is Lucas Saldanha, I love programming and how it transforms people's minds to think more logically.
+My name is Lucas Saldanha, I love programming and how it transforms people's minds to think more logically.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
