@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/BlazeF35?style=social)](https://github.com/BlazeF35?tab=followers)
 ![](https://komarev.com/ghpvc/?username=BlazeF35&color=006bed)
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Saldanha-006bed?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/lucas-saldanha/)](https://www.linkedin.com/in/lucas-saldanha/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Saldanha-006bed?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-saldanha-baa4711b4/)](https://www.linkedin.com/in/lucas-saldanha-baa4711b4/) 
 [![Gmail Badge](https://img.shields.io/badge/-lucassaldanha357@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucassaldanha357@gmail.com)](mailto:lucassaldanha357@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
