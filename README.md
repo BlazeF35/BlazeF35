@@ -1,4 +1,4 @@
-# Hello dear! Nice to meet you 😃
+# Hello! Nice to meet you 😃
 
 [![GitHub followers](https://img.shields.io/github/followers/BlazeF35?style=social)](https://github.com/BlazeF35?tab=followers)
 ![](https://komarev.com/ghpvc/?username=BlazeF35&color=006bed)
