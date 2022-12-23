@@ -14,7 +14,7 @@ My name is Lucas Saldanha, I love programming and how it transforms people's min
 ## About
 
 - 🎤 I’m currently working on  [Inatel](https://inatel.br/home/)
-- 🏢 I'm currently studying on [Univas](https://www.univas.edu.br/index_univas_1.asp)
+- 🏢 I graduated at the University of Vale do Sapucaí  [Univas](https://www.univas.edu.br/index_univas_1.asp)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -37,7 +37,7 @@ My name is Lucas Saldanha, I love programming and how it transforms people's min
 ## Interests
 - Data Science
 - Data Security
-- CI/CD
+- DevOps
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
